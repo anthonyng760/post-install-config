@@ -73,4 +73,10 @@ John
 <img src="https://imgur.com/QuZciCM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 
-</p>
+
+Configure Users (customers)
+<p> Agent Panel -> Users -> Add New
+<p> Karen
+<p>
+<img src="https://imgur.com/qRL9mTi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> Repeat same steps for user Ken
