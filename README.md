@@ -92,3 +92,19 @@ Configure SLA
 <img src="https://imgur.com/fQgbv9N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/VEdXiNr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+Configure Help Topics
+<p>Admin Panel -> Manage -> Help Topics
+<p>Business Critical Outage
+<p>Personal Computer Issues
+<p>Equipment Request
+<p>Password Reset
+<p>
+<img src="https://imgur.com/7D1zCGA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/otNIiiZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/LzmE1fO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/l5PFsJd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+This now fully configures our osTicket. I hope this guide was able to help clarify and assist you in setting up your osTicket. 
+
+<p> This is a very important skill to have for any help desk specialist, as they are the first line of communication between a company and its customers when it comes to handling issues regarding a product or service they provide.
