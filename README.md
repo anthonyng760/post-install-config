@@ -79,4 +79,16 @@ Configure Users (customers)
 <p> Karen
 <p>
 <img src="https://imgur.com/qRL9mTi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p> Repeat same steps for user Ken
+<p> (Repeat same steps for user Ken)
+<p>
+<p>
+Configure SLA
+<p>Admin Panel -> Manage -> SLA
+<p>Sev-A (1 hour, 24/7)
+<p>Sev-B (4 hours, 24/7)
+<p>Sev-C (8 hours, business hours)
+<p>
+<img src="https://imgur.com/9kvuLrO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/fQgbv9N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/VEdXiNr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
